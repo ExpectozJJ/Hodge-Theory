@@ -46,5 +46,7 @@ Examples are shown below.
 
 ![image](https://github.com/ExpectozJJ/Hodge-Theory/blob/main/images/1axc_zero_eigenvec.png)
 
+## Hodge Rank
+
 ## Cite
 If you use this code in your research, please cite our paper:
