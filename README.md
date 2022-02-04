@@ -48,5 +48,20 @@ Examples are shown below.
 
 ## Hodge Rank
 
+The Hodge Decomposition codes are used for the following:
+
+* DNA and Chromatin Folding
+```python
+oglionucleosome_folding.m --> Computes the coboundary matrices, and the optimization to approximate gradient flow, harmonic flow and curl flows.
+```
+* Hi-C Data
+```python
+HiC_oneDistance.m --> Computes the coboundary matrices, and the optimization to approximate gradient flow, harmonic flow and curl flows for the TAD Domains.
+```
+* Protein Folding
+```python
+simulation_bending_protein.m --> Computes the coboundary matrices, and the optimization to approximate gradient flow, harmonic flow and curl flows for protein folding frames.
+```
+
 ## Cite
 If you use this code in your research, please cite our paper:
