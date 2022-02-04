@@ -12,7 +12,8 @@ This manual is for the code implementation of paper "Hodge Theory for Biomolecul
 For each biomolecular structure (e.g. PDB file), HL_viz.py (in Spectral-Eigvec folder) computes the Hodge Laplacians and generates the spectral eigenvectors via eigendecomposition.
 ```python
 def faces(simplices):
-    # This function outputs the faces of the input simplices. 
+    # Input: Simplices (A set of simplices with each simplex in tuple format)
+    # For each $n$-dimensional simplex $\sigma$ in Simplices, this function outputs all the $k$-dimensional faces of $\sigma$ where $k\leq n$.
     
 def n_faces(face_set, n):
     # Given a set of simplices as input, this function outputs the set of simplices of dimension n or of vertex set length n+1. 
