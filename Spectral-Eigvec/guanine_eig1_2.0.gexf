@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2021-04-21">
+    <creator>NetworkX 2.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="eigvec" type="float" />
+      <attribute id="1" title="Weight" type="float" />
+    </attributes>
+    <nodes>
+      <node id="0" label="0">
+        <viz:position x="4.269" y="1.81" z="0.0" />
+      </node>
+      <node id="1" label="1">
+        <viz:position x="6.081" y="0.615" z="0.0" />
+      </node>
+      <node id="2" label="2">
+        <viz:position x="3.403" y="0.31" z="0.0" />
+      </node>
+      <node id="3" label="3">
+        <viz:position x="4.269" y="-1.19" z="0.0" />
+      </node>
+      <node id="4" label="4">
+        <viz:position x="6.081" y="-0.995" z="0.0" />
+      </node>
+      <node id="5" label="5">
+        <viz:position x="2.537" y="-1.19" z="0.0" />
+      </node>
+      <node id="6" label="6">
+        <viz:position x="5.135" y="0.31" z="0.0" />
+      </node>
+      <node id="7" label="7">
+        <viz:position x="5.135" y="-0.69" z="0.0" />
+      </node>
+      <node id="8" label="8">
+        <viz:position x="4.269" y="0.81" z="0.0" />
+      </node>
+      <node id="9" label="9">
+        <viz:position x="3.403" y="-0.69" z="0.0" />
+      </node>
+      <node id="10" label="10">
+        <viz:position x="6.665" y="-0.19" z="0.0" />
+      </node>
+      <node id="11" label="11">
+        <viz:position x="6.274" y="1.204" z="0.0" />
+      </node>
+      <node id="12" label="12">
+        <viz:position x="2.866" y="0.62" z="0.0" />
+      </node>
+      <node id="13" label="13">
+        <viz:position x="7.285" y="-0.19" z="0.0" />
+      </node>
+      <node id="14" label="14">
+        <viz:position x="2.537" y="-1.81" z="0.0" />
+      </node>
+      <node id="15" label="15">
+        <viz:position x="2.0" y="-0.88" z="0.0" />
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="8">
+        <attvalues>
+          <attvalue for="0" value="8.563815236414559e-17" />
+          <attvalue for="1" value="8.563815236414559e-17" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="1" target="6">
+        <attvalues>
+          <attvalue for="0" value="0.20661674844139458" />
+          <attvalue for="1" value="0.20661674844139458" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="1" target="11">
+        <attvalues>
+          <attvalue for="0" value="1.8549903819276797e-17" />
+          <attvalue for="1" value="1.8549903819276797e-17" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="1" target="10">
+        <attvalues>
+          <attvalue for="0" value="0.20661674844139447" />
+          <attvalue for="1" value="0.20661674844139447" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="2" target="8">
+        <attvalues>
+          <attvalue for="0" value="0.39813533114580874" />
+          <attvalue for="1" value="0.39813533114580874" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="2" target="12">
+        <attvalues>
+          <attvalue for="0" value="2.8025832714004356e-16" />
+          <attvalue for="1" value="2.8025832714004356e-16" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="2" target="9">
+        <attvalues>
+          <attvalue for="0" value="0.3981353311458091" />
+          <attvalue for="1" value="0.3981353311458091" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="3" target="7">
+        <attvalues>
+          <attvalue for="0" value="0.39813533114580857" />
+          <attvalue for="1" value="0.39813533114580857" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="3" target="9">
+        <attvalues>
+          <attvalue for="0" value="0.39813533114580885" />
+          <attvalue for="1" value="0.39813533114580885" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="4" target="7">
+        <attvalues>
+          <attvalue for="0" value="0.20661674844139452" />
+          <attvalue for="1" value="0.20661674844139452" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="4" target="10">
+        <attvalues>
+          <attvalue for="0" value="0.2066167484413948" />
+          <attvalue for="1" value="0.2066167484413948" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="5" target="9">
+        <attvalues>
+          <attvalue for="0" value="1.8012609431601004e-16" />
+          <attvalue for="1" value="1.8012609431601004e-16" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="5" target="15">
+        <attvalues>
+          <attvalue for="0" value="1.249000902703301e-16" />
+          <attvalue for="1" value="1.249000902703301e-16" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="5" target="14">
+        <attvalues>
+          <attvalue for="0" value="2.3592239273284576e-16" />
+          <attvalue for="1" value="2.3592239273284576e-16" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="6" target="7">
+        <attvalues>
+          <attvalue for="0" value="0.19151858270441446" />
+          <attvalue for="1" value="0.19151858270441446" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="6" target="8">
+        <attvalues>
+          <attvalue for="0" value="0.39813533114580885" />
+          <attvalue for="1" value="0.39813533114580885" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="10" target="13">
+        <attvalues>
+          <attvalue for="0" value="2.9812880552558094e-16" />
+          <attvalue for="1" value="2.9812880552558094e-16" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
