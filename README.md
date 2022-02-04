@@ -5,7 +5,7 @@ This manual is for the code implementation of paper "Hodge Theory for Biomolecul
 # Code Requirements
 ---
         Platform: Python>=3.6, MATLAB 2016B, GEPHI 0.9.2
-        Python Packages needed: math, numpy>=1.19.5, scipy>=1.4.1, scikit-learn>=0.20.3, GUDHI 3.0.0
+        Python Packages needed: math, numpy>=1.19.5, scipy>=1.4.1, scikit-learn>=0.20.3, GUDHI 3.0.0, NetworkX 2.4
 
 # Spectral Eigenvectors 
 
