@@ -66,3 +66,5 @@ simulation_bending_protein.m --> Computes the coboundary matrices, and the optim
 
 ## Cite
 If you use this code in your research, please cite our paper:
+
+* Ronald Koh Joon Wei, Junjie Wee, Valerie Evangelin Laurent, and Kelin Xia, "Hodge theory-based biomolecular data analysis", Scientific Report (2022) (to appear)
